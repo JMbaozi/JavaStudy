@@ -1,0 +1,15 @@
+package Draw_I;
+/**
+ * 请自行任意选取某一个大写字母，编写一个程序。该程序通过给文件“data.txt”写入‘ ’（空格字符)和‘*’(星字符)组成该字母的图案，即在程序运行结束之后，通过文本编辑器应当可以看到在新创建的文件“data.txt”中由空格字符和星字符组成的指定大写字母的图案。
+ * @author JMbaozi
+ *
+ */
+public class Draw_I {
+	public void SaveFile() {
+		
+	}
+	public static void main(String args[]) {
+		Draw_I i = new Draw_I();
+		i.SaveFile();
+	}
+}
